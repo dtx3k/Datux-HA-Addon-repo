@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
-name: Example Home Assistant add-on repository
-url: 'https://github.com/home-assistant/addons-example'
-maintainer: Awesome Maintainer <awesome@example.com>
+name: Datux HA Addon Repo
+url: "https://github.com/dtx3k/Datux-HA-Addon-repo"
+maintainer: Tom Soer <datux3000@gmail.com>
